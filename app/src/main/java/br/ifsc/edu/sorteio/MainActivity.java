@@ -17,9 +17,9 @@ public class MainActivity extends AppCompatActivity {
     Button btnRandom;
 
 
-    public void copy(View view){
+    // public void copy(View view){
 
-    }
+    // }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
